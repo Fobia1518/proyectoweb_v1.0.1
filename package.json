@@ -1,0 +1,20 @@
+{
+  "name": "bonus_tarea1",
+  "version": "1.0.1",
+  "description": "Se muestran todo en la pagina web",
+  "main": "principal.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "inscribir"
+  },
+  "keywords": [
+    "inscribir"
+  ],
+  "author": "Fabian_Ortiz fabian1518@hotmail.com",
+  "license": "ISC"
+}
